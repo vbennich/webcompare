@@ -1,0 +1,22 @@
+{
+  "name": "webcompare",
+  "version": "1.0.0",
+  "description": "website comparator",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^2.4.0",
+    "image-diff": "^1.6.3",
+    "jimp": "^0.2.27",
+    "nodemailer": "^4.0.1",
+    "sleep": "^5.1.1",
+    "sync": "^0.2.5",
+    "synchronize": "^2.0.0",
+    "webshot": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "victor bennich",
+  "license": "ISC"
+}
